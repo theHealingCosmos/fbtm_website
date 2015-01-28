@@ -1,0 +1,1 @@
+Adapted from http://mmistakes.github.io/minimal-mistakes
