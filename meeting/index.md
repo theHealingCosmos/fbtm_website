@@ -12,12 +12,10 @@ image:
 ### How to find us?
 
 <pre>
-Umweltbundesamt (Room 1042)
-Bismarckplatz 1
-14193 Berlin-Wilmersdorf
+{{ site.meeting_address }}
 </pre>
 
-Please use buses X10 or M29 at railway station S-Bhf Halensee. 
+Please use buses X10 or M29 at railway station S-Bhf Halensee.
 
 ### When do we meet?
 

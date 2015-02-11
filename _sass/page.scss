@@ -165,11 +165,11 @@ $button-size: 1.5rem;
 	}
 }
 // Style the toggle menu link and hide it
-.nav .navtoogle {	
+.nav .navtoogle {
 	@include font-rem(18);
 	font-weight: normal;
 	background-color: $black;
-	color: $white;	
+	color: $white;
 	border: none;
 	cursor: pointer;
 	@media #{$small} {
@@ -206,7 +206,7 @@ $button-size: 1.5rem;
 	}
 }
 // Displaying the menu when the user has clicked on the button
-.js .nav .active + ul {		
+.js .nav .active + ul {
 	max-height: 30em;
 	overflow: hidden;
 	-webkit-transition: max-height .4s;
@@ -517,7 +517,7 @@ $button-size: 1.5rem;
 	margin: 1em 0;
 	li {
 		display: inline;
-		a { 
+		a {
 			border-bottom: 0 solid transparent;
 			&:hover {
 				border-bottom: 0 solid transparent;
@@ -546,12 +546,12 @@ $button-size: 1.5rem;
 	a.jp-current {
 		font-weight: bold;
 	}
-	a.jp-disabled, 
+	a.jp-disabled,
 	a.jp-disabled:hover {
 	}
-	a.jp-current, 
-	a.jp-current:hover,  
-	a.jp-disabled, 
+	a.jp-current,
+	a.jp-current:hover,
+	a.jp-disabled,
 	a.jp-disabled:hover {
 		cursor: default;
 		background: none;
@@ -563,21 +563,19 @@ $button-size: 1.5rem;
 .footer-wrap {
 	@include container;
 	@include clearfix;
-	
+
+        color: #FFF;
 	clear: both;
 	padding-bottom: 3em;
 	border-top: 1px solid #C4C4C4;
 	background: #003F62;
 	font-family: $heading-font;
 	font-weight: 700;
-	a,
-	a:active,
-	a:visited,
 	p,
 	h4,
 	h5,
 	h6,
-	span { 
+	span {
 		@include font-rem(14);
 	}
 	a {
@@ -585,13 +583,21 @@ $button-size: 1.5rem;
 		font-size: 1.5em;
 		margin-right: 6%;
 	}
+        pre {
+          margin-top: 40px;
+        }
 	footer {
-		@include grid(12,6);
-		@include prefix(12,4);
-		@include suffix(12,2);
+		@include grid(12,8);
+		@include prefix(12,2);
+		@include suffix(12,1);
 		margin-top: 10px;
 		display: block;
 		float: none;
+
+                .footer-item {
+                  @include grid(12,5);
+                  @include suffix(12,1);
+                }
 	}
 	a:hover {
 		color: #8A8A8A;
@@ -613,7 +619,7 @@ $button-size: 1.5rem;
 		@include suffix(12,3.5);
 	}
 	h4 {
-		
+
 		text-transform: uppercase;
 		margin-bottom: 0;
 	}

@@ -2,13 +2,17 @@
 
 title:            First Berlin Toastmasters
 locale:           en_US
-url:              
+url:
 
 default_image:
   feature: banners/ampitheatre.jpg
   credit: Tyler Karaszewski
   creditlink: https://www.flickr.com/photos/tylerkaraszewski/
 
+meeting_address: |
+  Umweltbundesamt (Room 1042)
+  Bismarckplatz 1
+  14193 Berlin-Wilmersdorf
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -33,17 +37,17 @@ owner:
   name: Your Name
   avatar: bio-photo.jpg
   bio: "Describe your self."
-  email: 
-  disqus-shortname: 
+  email:
+  disqus-shortname:
   twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
