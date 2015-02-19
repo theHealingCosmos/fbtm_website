@@ -2,7 +2,6 @@
 layout: page
 title: Imprint
 excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
 permalink: /imprint/
 image:
   feature: banners/ampitheatre.jpg
@@ -18,4 +17,4 @@ Under no circumstances do we assume responsibility for the contents of websites 
 
 The content and structure of the FBTM website are copyright protected.
 
-Reproduction of information or data content, in any form whatsoever in particular the use of text (whether in full or in part), images, graphics, recordings, videos, podcasts, articles, or other, requires prior, written, approval from FBTM or the original authors. 
+Reproduction of information or data content, in any form whatsoever in particular the use of text (whether in full or in part), images, graphics, recordings, videos, podcasts, articles, or other, requires prior, written, approval from FBTM or the original authors.

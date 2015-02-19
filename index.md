@@ -1,7 +1,7 @@
 ---
 layout: page
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "First Berlin Toastmasters: We Support, You Succeed!"
+tags: []
 image:
   feature: banners/ampitheatre.jpg
   credit: Tyler Karaszewski
@@ -31,4 +31,4 @@ Are members come from all walks of life and from many different countries.
 
 [Join us as our guest]({{ site.url }}/contact/) It's free, it's fun and it's inspiring!
 
- 
+

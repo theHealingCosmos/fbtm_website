@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Meeting
-modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "All about our meetings"
 image:
   feature: banners/ampitheatre.jpg
   credit: Tyler Karaszewski
   creditlink: https://www.flickr.com/photos/tylerkaraszewski/
+permalink: /meeting/
 ---
 
 ### How to find us?
