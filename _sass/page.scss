@@ -39,7 +39,8 @@ body {
 	@include grid(12,8);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 1em;
+	margin: 0;
+  width: 100%;
 	float: none;
 	display: block;
 	@media #{$small} {
@@ -53,6 +54,7 @@ body {
 	.nav {
 		float: right;
 		padding-top: 0px;
+    width: 100%;
     @media #{$small} {
       padding-top: 100px;
     }
@@ -598,10 +600,29 @@ $button-size: 1.5rem;
 		display: block;
 		float: none;
 
-                .footer-item {
-                  @include grid(12,5);
-                  @include suffix(12,1);
-                }
+    .footer-address {
+      @include grid(8,3);
+      @include suffix(12,1);
+      float: none;
+
+      @media #{$small} {
+        float: left;
+      }
+    }
+
+    .footer-buttons {
+      @include grid(8,4);
+      line-height: 2.5em;
+
+      a {
+        width: 25px;
+        display: block;
+
+        @media #{$large} {
+          display: inline;
+        }
+      }
+    }
 	}
 	a:hover {
 		color: #8A8A8A;
