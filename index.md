@@ -2,10 +2,6 @@
 layout: page
 excerpt: "First Berlin Toastmasters: We Support, You Succeed!"
 tags: []
-image:
-  feature: banners/ampitheatre.jpg
-  credit: Tyler Karaszewski
-  creditlink: https://www.flickr.com/photos/tylerkaraszewski/
 ---
 
 # Welcome
