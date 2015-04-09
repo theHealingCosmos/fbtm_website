@@ -621,9 +621,11 @@ $button-size: 1.5rem;
       a {
         width: 25px;
         display: block;
+        @include prefix(12,3);
 
         @media #{$large} {
           display: inline;
+          margin-left: 0;
         }
       }
     }

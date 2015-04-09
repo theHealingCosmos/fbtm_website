@@ -3,10 +3,6 @@ layout: page
 title: FAQ
 excerpt: "Frequently Asked Questions"
 permalink: /faq/
-image:
-  feature: banners/ampitheatre.jpg
-  credit: Tyler Karaszewski
-  creditlink: https://www.flickr.com/photos/tylerkaraszewski/
 ---
  
 #### What does Toastmasters International stand for?

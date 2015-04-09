@@ -2,11 +2,11 @@
 layout: page
 title: Meeting
 excerpt: "All about our meetings"
-image:
-  feature: banners/ampitheatre.jpg
-  credit: Tyler Karaszewski
-  creditlink: https://www.flickr.com/photos/tylerkaraszewski/
 permalink: /meeting/
+image:
+  feature: banners/public-speaking-banner.jpg
+  credit:
+  creditlink:
 ---
 
 ### How to find us?
