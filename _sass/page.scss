@@ -17,7 +17,7 @@ body {
 	@include clearfix;
 }
 .site-name {
-	@include grid(12,10);
+	@include grid(12,2);
 	@include prefix(12,1);
 	@include suffix(12,1);
 	margin-bottom: 1em;
@@ -36,7 +36,7 @@ body {
 	}
 }
 .top-navigation {
-	@include grid(12,10);
+	@include grid(12,8);
 	@include prefix(12,1);
 	@include suffix(12,1);
 	margin-bottom: 1em;
@@ -48,11 +48,14 @@ body {
 		@include suffix(12,0);
 	}
 	@media #{$x-large} {
-		@include grid(12,8);
+		@include grid(12,6);
 	}
 	.nav {
 		float: right;
-		padding-top: 100px;
+		padding-top: 0px;
+    @media #{$small} {
+      padding-top: 100px;
+    }
 	}
 	ul {
 		margin: 0;
@@ -66,13 +69,14 @@ body {
 		list-style-type: none;
 		border-bottom: 1px solid lighten($black,80);
 		border-bottom: 1px solid fade($black,10);
+    margin-right: 85px;
 		@include font-rem(16);
 		&:last-child {
 			border-bottom: 0 solid transparent;
 		}
 		@media #{$small} {
 			display: inline;
-			margin-right: 85px;
+			margin-right: 65px;
 			white-space: nowrap;
 			border-bottom: 0 solid transparent;
 		}
