@@ -3,6 +3,8 @@ layout: page
 title: FAQ
 excerpt: "Frequently Asked Questions"
 permalink: /faq/
+image:
+  feature: banners/club-members.jpg
 ---
  
 #### What does Toastmasters International stand for?

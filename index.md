@@ -2,6 +2,8 @@
 layout: page
 excerpt: "First Berlin Toastmasters: We Support, You Succeed!"
 tags: []
+image:
+  feature: banners/club-members.jpg
 ---
 
 # Welcome
