@@ -23,7 +23,7 @@ At First Berlin, you will have the opportunity to:
 
 
 Come as a guest and experience what Toastmasters is all about. Two hours of fun and learning.
-Are members come from all walks of life and from many different countries.
+Our members come from all walks of life and from many different countries.
 
 [Join us as our guest]({{ site.url }}/contact/) It's free, it's fun and it's inspiring!
 

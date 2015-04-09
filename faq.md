@@ -9,7 +9,7 @@ permalink: /faq/
  
 "We learn most in moments of enjoyment" -  in 1924, Ralph Smedley, the founder of Toastmasters
 set his belief into action: confident speaking and efficient leadership can be learned by everyone in a
-supportive and friendly environment. Meanwhile, more than 300000 Toastmasters across the globe
+supportive and friendly environment. Meanwhile, more than 300,000 Toastmasters across the globe
 practice and hone their skills every week. Wherever you are, you are always welcome to attend.
 
 See also: [Toastmasters International](www.toastmasters.org)
@@ -18,15 +18,15 @@ See also: [Toastmasters International](www.toastmasters.org)
 #### What is First Berlin Toastmasters about?
  
 "We support, You succeed" is our club's motto! Our meetings are based on mutual respect. We all
-wish to improve our presentation, feedback, and leadership skills. Speaking and listening are 
+wish to improve our presentation, feedback and leadership skills. Speaking and listening are 
 two sides of the same coin. Learning by doing brings many benefits and makes for faster progress. 
-New club members are supported by a mentor of their choice. You decide the pace at which you 
-advance!
+If they wish, new club members can be supported by a mentor of their choice. You decide the
+pace at which you advance!
  
 #### Are Toastmasters meetings open to everyone?
  
 Yes! Come as a guest and attend our meetings. Meetings are free of charge and further obligation. 
-Meetings start promptly at 18.45.  Doors are open from 18.30. 
+Meetings start promptly at 6:45pm  Doors are open from 6:30pm 
 
 If there is no one at the reception, simply dial the telephone number on the First Berlin poster 
 and someone will come and collect you.
@@ -38,12 +38,11 @@ Meetings take place on the 1st and 3rd Wednesday of every month.
 
 #### Where do we meet?
 
+<pre>
 {{ site.meeting_address }}
-
+</pre>
  
 #### What happens during a meeting?
-
-Meetings open with a warm welcome to our members and guests.
 
 The first half of each meeting consists of impromptu and prepared speeches followed by a short break.
 
