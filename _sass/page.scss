@@ -65,7 +65,10 @@ body {
 		clear: both;
 		list-style-type: none;
 		line-height: 30px;
-    float: right;
+    float: none;
+    @media #{$small} {
+      float: right;
+    }
     @media #{$x-large} {
       float: none;
     }
