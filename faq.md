@@ -14,7 +14,7 @@ set his belief into action: confident speaking and efficient leadership can be l
 supportive and friendly environment. Meanwhile, more than 300,000 Toastmasters across the globe
 practice and hone their skills every week. Wherever you are, you are always welcome to attend.
 
-See also: [Toastmasters International](www.toastmasters.org)
+See also: [Toastmasters International](http://www.toastmasters.org)
 
  
 #### What is First Berlin Toastmasters about?
@@ -28,7 +28,7 @@ pace at which you advance!
 #### Are Toastmasters meetings open to everyone?
  
 Yes! Come as a guest and attend our meetings. Meetings are free of charge and further obligation. 
-Meetings start promptly at 6:45pm  Doors are open from 6:30pm 
+Meetings start promptly at 6:45pm. Doors are open from 6:30pm 
 
 If there is no one at the reception, simply dial the telephone number on the First Berlin poster 
 and someone will come and collect you.
@@ -36,7 +36,6 @@ and someone will come and collect you.
 #### When do we meet?
 
 Meetings take place on the 1st and 3rd Wednesday of every month. 
-
 
 #### Where do we meet?
 
@@ -70,7 +69,7 @@ As a member you receive:
 * The monthly edition of the Toastmasters magazine full of articles on public speaking and personal successes.   
 * Access to Toastmasters International's website which includes film footage of winning speeches and educational information.
 
-Please visit [Toastmasters International](www.toastmasters.org)
+Please visit [Toastmasters International](http://www.toastmasters.org)
  
 #### How much does it cost to become a member?
 
@@ -78,7 +77,7 @@ Fees are as follows:
 
 * One time registration fee of 20 EUR which covers the cost of your Competent Communicator and Competent Leadership manuals.
 * Monthly membership: 9,50 EUR.
-* A reduced monthly fee of 7 EUR is available for students or for the unemployed  
+* A reduced monthly fee of 7 EUR is available for students or for the unemployed.
 
 Fees are collected in March and in September for a total of 57 EUR for six months of membership (42 EUR at the reduced rate). 
 
