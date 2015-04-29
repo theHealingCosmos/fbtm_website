@@ -77,7 +77,6 @@ body {
 		list-style-type: none;
 		border-bottom: 1px solid lighten($black,80);
 		border-bottom: 1px solid fade($black,10);
-    margin-right: 85px;
 		@include font-rem(16);
 		&:last-child {
 			border-bottom: 0 solid transparent;
