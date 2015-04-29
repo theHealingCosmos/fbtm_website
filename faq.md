@@ -50,7 +50,7 @@ The second half of each meeting is made up of written and spoken evaluations of 
 
 The evening ends with an invitation to our local pub where the discussions and mingling continue.
 
-See [our meeting program/agenda](fbtm.tmclub.eu/agenda)
+See [a sample meeting programme / agenda](//fbtm.org/files/sample_agenda.pdf)
  
 #### Which language is spoken?
  
