@@ -8,7 +8,6 @@ body {
 	color: $text-color;
 }
 .navigation-wrapper {
-	@include container;
 	background: #003f62;
 	padding: 1em 2em 0 1em;
 	font-family: $heading-font;
