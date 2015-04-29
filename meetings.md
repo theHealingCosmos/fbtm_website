@@ -12,7 +12,7 @@ image:
 ### How to find us?
 
 <a href="//www.google.de/maps/place/Bismarckpl.+1,+14193+Berlin/@52.49213,13.28347,17z/data=!4m2!3m1!1s0x47a850c80353f101:0x2826476588aa74e3">
-  <img src="//maps.googleapis.com/maps/api/staticmap?center=Bismarckpl.+1%2C+14193+Berlin&zoom=14&size=400x400&maptype=roadmap&markers=color:blue|label:T|52.49213,13.28347" />
+  <img src="//maps.googleapis.com/maps/api/staticmap?center=Bismarckpl.+1%2C+14193+Berlin&zoom=14&size=400x400&maptype=roadmap&markers=color:red|label:T|52.49213,13.28347" />
 </a>
 
 <pre>
