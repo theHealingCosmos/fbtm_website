@@ -8,7 +8,7 @@ image:
 
 # Welcome
 
-Toastmasters is a non-profit organision dedicated to teaching leadership and public speaking skills.
+Toastmasters is a non-profit organisation dedicated to teaching leadership and public speaking skills.
 
 Good communication skills play an important role in determining our success - in our private lives as well as in business.
 

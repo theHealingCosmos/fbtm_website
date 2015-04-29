@@ -22,8 +22,7 @@ See also: [Toastmasters International](http://www.toastmasters.org)
 "We support, You succeed" is our club's motto! Our meetings are based on mutual respect. We all
 wish to improve our presentation, feedback and leadership skills. Speaking and listening are 
 two sides of the same coin. Learning by doing brings many benefits and makes for faster progress. 
-If they wish, new club members can be supported by a mentor of their choice. You decide the
-pace at which you advance!
+If they wish, new club members can be supported by a mentor. You decide the pace at which you advance!
  
 #### Are Toastmasters meetings open to everyone?
  
@@ -43,11 +42,11 @@ Meetings take place on the 1st and 3rd Wednesday of every month.
 {{ site.meeting_address }}
 </pre>
  
-#### What happens during a meeting?
+#### What happens during a meeting
 
 The first half of each meeting consists of impromptu and prepared speeches followed by a short break.
 
-The second half of each meeting is made up of written and spoken evaluations of prepared speeches. 
+The second half of each meeting is made up of written and spoken evaluations of the entire meeting.
 
 The evening ends with an invitation to our local pub where the discussions and mingling continue.
 
