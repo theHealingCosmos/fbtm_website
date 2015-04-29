@@ -11,7 +11,9 @@ image:
 
 ### How to find us?
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2429.2822615824243!2d13.283470000000001!3d52.49213!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a850c80353f101%3A0x2826476588aa74e3!2sBismarckpl.+1%2C+14193+Berlin!5e0!3m2!1sen!2sde!4v1428593984030" width="600" height="450" frameborder="0" style="border:0"></iframe>
+<a href="//www.google.de/maps/place/Bismarckpl.+1,+14193+Berlin/@52.49213,13.28347,17z/data=!4m2!3m1!1s0x47a850c80353f101:0x2826476588aa74e3">
+  <img src="//maps.googleapis.com/maps/api/staticmap?center=Bismarckpl.+1%2C+14193+Berlin&zoom=14&size=400x400&maptype=roadmap&markers=color:blue|label:T|52.49213,13.28347" />
+</a>
 
 <pre>
 {{ site.meeting_address }}
