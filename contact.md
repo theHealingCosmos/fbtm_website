@@ -8,7 +8,11 @@ image:
 ---
 If you have any questions or need further information, you can reach us via [this form](http://tmclub.eu/portal.php?page=553).
 
-You can also email our Vice President of Membership at this address:
+You can also email our President:
+
+president -at- fbtm.org
+
+or our Vice President of Membership:
 
 vp-membership -at- fbtm.org
 
