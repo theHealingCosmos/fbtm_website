@@ -21,12 +21,13 @@ At First Berlin, you will have the opportunity to:
 * learn how to give effective and constructive feedback,
 * organize and lead meetings,
 * improve your listening skills,
-* learn to speak "off the cuff" or speak extemporaneously.
-
+* learn to speak without preparation
 
 Come as a guest and experience what Toastmasters is all about. Two hours of fun and learning.
 Our members come from all walks of life and from many different countries.
 
-[Join us as our guest]({{ site.url }}/contact/) It's free, it's fun and it's inspiring!
+Join us as our guest, it's free, it's fun and it's inspiring!
+
+[See our contact form]({{ site.url }}/contact/)
 
 

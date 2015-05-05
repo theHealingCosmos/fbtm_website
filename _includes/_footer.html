@@ -13,11 +13,13 @@
 {% endif %}
 
 <div class="footer-address">
+  <p>
   6:45pm - 8:45pm<br/>
   Every 1st and 3rd Wednesday
-  <pre>
-{{ site.meeting_address }}
-  </pre>
+  </p>
+  <p>
+    {{ site.meeting_address | newline_to_br }}
+  </p>
 </div>
 <div class="footer-buttons">
 	<a href="http://tmclub.eu/mycalendar.php?month=02&year=2015&scope=only">Calendar</a>

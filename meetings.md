@@ -11,15 +11,13 @@ image:
 
 ### How to find us?
 
+{{ site.meeting_address | newline_to_br }}
+
 <a href="//www.google.de/maps/place/Bismarckpl.+1,+14193+Berlin/@52.49213,13.28347,17z/data=!4m2!3m1!1s0x47a850c80353f101:0x2826476588aa74e3">
   <img src="//maps.googleapis.com/maps/api/staticmap?center=Bismarckpl.+1%2C+14193+Berlin&zoom=14&size=400x400&maptype=roadmap&markers=color:red|label:T|52.49213,13.28347" />
 </a>
 
-<pre>
-{{ site.meeting_address }}
-</pre>
-
-From S-Bahnhof Halensee you can use the X10 or M29 bus towards Gruenewald. Get off at the stop for Bismarckplatz and the Umweltbundesamt building is on the other side of the road. 
+From S-Bahnhof Halensee you can use the X10 or M29 bus towards Grunewald. Get off at the stop for Bismarckplatz. From the bus stop turn right at the next corner, turn right again and you will see the large Umweltbundesamt building.
 
 ### When do we meet?
 
