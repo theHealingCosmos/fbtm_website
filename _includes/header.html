@@ -1,0 +1,33 @@
+<header class="site-header">
+  <div class="row">
+    <div class="large-12 columns">
+      <img src="{{ "/img/tm-logo.150x.png" | prepend: site.baseurl }}" class="title-image" />
+      <h1 class="top-title">First Berlin Toastmasters</h1>
+
+      <nav class="top-bar" data-topbar role="navigation">
+        <ul class="title-area">
+          <li class="name"></li>
+          <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+          <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+        </ul>
+
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li><a href="/">HOME</a></li>
+            <li><a href="/meetings/">MEETINGS</a></li>
+            <li><a href="/faq/">FAQ</a></li>
+            <li><a href="/contact/">CONTACT</a></li>
+          </ul>
+        </section>
+      </nav>
+    </div>
+  </div>
+</header>
+{% if page.image.feature %}
+<img src="{{ site.baseurl }}/img/{{ page.image.feature }}" class="banner-image banner-image-credit" />
+<a class="right" href="{{ page.image.creditlink }}"/>Image by {{ page.image.credit }}</a>
+{% else %}
+<img src="{{ site.baseurl }}/img/{{ site.default_image.feature }}" class="banner-image" />
+<a class="right banner-image-credit" href="{{ site.default_image.creditlink }}"/>Image by {{ site.default_image.credit }}</a>
+{% endif %}

@@ -3,13 +3,9 @@ layout: page
 title: Meeting
 excerpt: "All about our meetings"
 permalink: /meetings/
-image:
-  feature: banners/public-speaking-banner.jpg
-  credit:
-  creditlink:
 ---
 
-### How to find us?
+### How to find First Berlin Toastmasters?
 
 {{ site.meeting_address | newline_to_br }}
 
@@ -19,7 +15,7 @@ image:
 
 From S-Bahnhof Halensee you can use the X10 or M29 bus towards Grunewald. Get off at the stop for Bismarckplatz. From the bus stop turn right at the next corner, turn right again and you will see the large Umweltbundesamt building.
 
-### When do we meet?
+### When do First Berlin Toastmasters meet?
 
 We meet on the 1st and 3rd Wednesday of every month from 6.45 pm to 8.45 pm.
 

@@ -1,0 +1,89 @@
+@import "media_queries";
+
+body {
+  font-family: "PT Sans Narrow", Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Sans Narrow", Arial, sans-serif;
+  font-weight: bold;
+}
+
+.site-header {
+  background: #003F62;
+  color: #FFF;
+  overflow: hidden;
+  padding: 20px 0;
+  width: 100%;
+
+  .top-title {
+    color: #FFF;
+    text-transform: uppercase;
+  }
+
+  .top-bar-section {
+    .right > a {
+      text-transform: uppercase;
+    }
+  }
+}
+
+.banner-image {
+  width: 100%;
+  margin-bottom: rem-calc(30);
+}
+
+.banner-image-credit {
+  font-size: rem-calc(12);
+}
+
+
+.post-content {
+  padding: 15px;
+  font-family: "PT Serif", serif;
+}
+
+.site-footer {
+  background: #003F62;
+  color: #FFF;
+  padding: 20px 0;
+  width: 100%;
+
+  .footer-address > p {
+    font-weight: 700;
+    font-size: 1.5em;
+  }
+
+  a {
+    color: #FFF;
+    display: block;
+    font-weight: 700;
+    font-size: 1.5em;
+    margin-right: rem-calc(25);
+    text-transform: uppercase;
+  }
+}
+
+@media #{$medium-up} {
+  .title-image {
+    float: left;
+    margin-right: 20px;
+  }
+
+  .baseline-buttons {
+    padding-top: 90px;
+  }
+
+  .top-bar {
+    ul {
+      li {
+        background: transparent;
+        margin-left: 65px;
+      }
+    }
+  }
+
+  .top-title {
+    margin-bottom: 40px;
+  }
+}

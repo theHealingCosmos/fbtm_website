@@ -1,0 +1,26 @@
+<footer class="site-footer">
+  <div class="row">
+    <div class="small-12 medium-6 large-5 columns footer-address">
+      <p>
+      6:45pm - 8:45pm<br/>
+      Every 1st and 3rd Wednesday
+      </p>
+
+      <p>
+       {{ site.meeting_address | newline_to_br }}
+      </p>
+    </div>
+    <div class="small-12 medium-6 large-4 columns text-right">
+      <a href="http://tmclub.eu/mycalendar.php?month=02&year=2015&scope=only">Calendar</a>
+      <a href="http://fbtm.tmclub.eu">EasySpeak</a>
+      <a href="{{ site.baseurl }}/contact/">Contact</a>
+      <a href="{{ site.baseurl }}/imprint/">Imprint</a>
+    </div>
+</footer>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/vendor/jquery.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/vendor/fastclick.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script>
+<script type="text/javascript">
+  $(document).foundation();
+</script>

@@ -3,8 +3,6 @@ layout: page
 title: FAQ
 excerpt: "Frequently Asked Questions"
 permalink: /faq/
-image:
-  feature: banners/club-members.jpg
 ---
 
 #### What does Toastmasters International stand for?
@@ -29,14 +27,14 @@ If they wish, new club members can be supported by a mentor. You decide the pace
 Yes! Come as a guest and attend our meetings. Meetings are free of charge and further obligation.
 Meetings start promptly at 6:45pm. Doors are open from 6:30pm
 
-If there is no one at the reception, simply dial the telephone number on the First Berlin poster
+If there is no one at the reception, simply dial the telephone number on the First Berlin Toastmasters poster
 and someone will come and collect you.
 
-#### When do we meet?
+#### When do First Berlin Toastmasters meet?
 
 Meetings take place on the 1st and 3rd Wednesday of every month.
 
-#### Where do we meet?
+#### Where do First Berlin Toastmasters meet?
 
 {{ site.meeting_address|newline_to_br }}
 
@@ -78,9 +76,9 @@ Fees are as follows:
 
 Fees are collected in March and in September for a total of 57 EUR for six months of membership (42 EUR at the reduced rate).
 
-To become a member, download [the membership application form]({{ site.url }}/assets/forms/400_Eng.pdf)<i style="margin-left:10px;" class="fa fa-file-pdf-o fa-2x"></i>
+To become a member of First Berlin Toastmasters, download [the membership application form]({{ site.url }}/assets/forms/400_Eng.pdf)<i style="margin-left:10px;" class="fa fa-file-pdf-o fa-2x"></i>
 
 
 #### How can I contact you?
 
-You can get in touch with us via [EasySpeak](http://tmclub.eu/portal.php?page=553)
+You can get in touch with First Berlin Toastmasters via [EasySpeak](http://tmclub.eu/portal.php?page=553)
