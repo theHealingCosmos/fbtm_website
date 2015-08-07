@@ -3,6 +3,10 @@ layout: page
 title: Meeting
 excerpt: "All about our meetings"
 permalink: /meetings/
+image:
+  feature: banners/public-speaking-banner.jpg
+  credit: Pete
+  creditlink: https://www.flickr.com/photos/comedynose/3638971241/
 ---
 
 ### How to find First Berlin Toastmasters?

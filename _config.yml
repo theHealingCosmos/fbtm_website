@@ -2,9 +2,7 @@
 title: First Berlin Toastmasters - "We support, you succeed"
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  First Berlin Toastmasters is a non-profit organisation dedicated to teaching leadership and public speaking skills.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.fbtm.org" # the base hostname & protocol for your site
 twitter_username: 
@@ -14,12 +12,12 @@ github_username:
 markdown: kramdown
 gems: ['zurb-foundation']
 
-meeting_address: >
+meeting_address: |
   Umweltbundesamt (Room 1042)
   Bismarckplatz 1
   14193 Berlin-Wilmersdorf
 
 default_image:
-  feature: banners/public-speaking-banner.jpg
-  credit: Pete
-  creditlink: https://www.flickr.com/photos/comedynose/3638971241/
+  feature: banners/members-1900x350.jpg
+  credit: First Berlin Toastmasters
+  creditlink: http://fbtm.org/
