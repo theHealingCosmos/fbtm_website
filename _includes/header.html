@@ -1,8 +1,8 @@
-<header class="site-header">
+<header class="tm-blue-bg full-width pad-vert">
   <div class="row">
     <div class="large-12 columns">
       <img src="{{ "/img/tm-logo.150x.png" | prepend: site.baseurl }}" class="title-image" />
-      <h1 class="top-title">First Berlin Toastmasters</h1>
+      <h1 class="white-text upcase">First Berlin Toastmasters</h1>
 
       <nav class="top-bar" data-topbar role="navigation">
         <ul class="title-area">
@@ -13,11 +13,11 @@
 
         <section class="top-bar-section">
           <!-- Right Nav Section -->
-          <ul class="right">
-            <li><a href="{{ site.baseurl }}/">HOME</a></li>
-            <li><a href="{{ site.baseurl }}/meetings/">MEETINGS</a></li>
-            <li><a href="{{ site.baseurl }}/faq/">FAQ</a></li>
-            <li><a href="{{ site.baseurl }}/contact/">CONTACT</a></li>
+          <ul class="right upcase">
+            <li><a href="{{ site.baseurl }}/" class="menu-link">HOME</a></li>
+            <li><a href="{{ site.baseurl }}/meetings/" class="menu-link">MEETINGS</a></li>
+            <li><a href="{{ site.baseurl }}/faq/" class="menu-link">FAQ</a></li>
+            <li><a href="{{ site.baseurl }}/contact/" class="menu-link">CONTACT</a></li>
           </ul>
         </section>
       </nav>
@@ -25,9 +25,9 @@
   </div>
 </header>
 {% if page.image.feature %}
-<img src="{{ site.baseurl }}/img/{{ page.image.feature }}" class="banner-image banner-image-credit" />
-<a class="right" href="{{ page.image.creditlink }}"/>Image by {{ page.image.credit }}</a>
+<img src="{{ site.baseurl }}/img/{{ page.image.feature }}" class="banner-image full-width" />
+<a class="right small" href="{{ page.image.creditlink }}"/>Image by {{ page.image.credit }}</a>
 {% else %}
-<img src="{{ site.baseurl }}/img/{{ site.default_image.feature }}" class="banner-image" />
+<img src="{{ site.baseurl }}/img/{{ site.default_image.feature }}" class="banner-image full-width" />
 <a class="right banner-image-credit" href="{{ site.default_image.creditlink }}"/>Image by {{ site.default_image.credit }}</a>
 {% endif %}

@@ -1,66 +1,56 @@
 @import "media_queries";
 
-body {
-  font-family: "PT Sans Narrow", Arial, sans-serif;
-}
+$tm-blue: #003F62;
+$std-pad: rem-calc(20);
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans Narrow", Arial, sans-serif;
-  font-weight: bold;
-}
-
-.site-header {
-  background: #003F62;
+// text
+.white-text {
   color: #FFF;
-  overflow: hidden;
-  padding: 20px 0;
-  width: 100%;
-
-  .top-title {
-    color: #FFF;
-    text-transform: uppercase;
-  }
-
-  .top-bar-section {
-    .right > a {
-      text-transform: uppercase;
-    }
-  }
 }
 
+.upcase {
+  text-transform: uppercase;
+}
+
+.header-font {
+  font-family: $header-font-family;
+}
+
+.heavy-text {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+// colour
+.tm-blue-bg {
+  background: $tm-blue
+}
+
+// layout
+.full-width {
+  width: 100%;
+}
+
+.display-block {
+  display: block;
+}
+
+.pad-vert {
+  padding: $std-pad 0;
+}
+
+.pad-both {
+  padding: $std-pad;
+}
+
+// custom styles
 .banner-image {
-  width: 100%;
-  margin-bottom: rem-calc(30);
-}
-
-.banner-image-credit {
-  font-size: rem-calc(12);
-}
-
-
-.post-content {
-  padding: 15px;
-  font-family: "PT Serif", serif;
+  margin-bottom: $std-pad
 }
 
 .site-footer {
-  background: #003F62;
-  color: #FFF;
-  padding: 20px 0;
-  width: 100%;
-
-  .footer-address > p {
-    font-weight: 700;
-    font-size: 1.5em;
-  }
-
-  a {
-    color: #FFF;
-    display: block;
-    font-weight: 700;
-    font-size: 1.5em;
-    margin-right: rem-calc(25);
-    text-transform: uppercase;
+  .small-push-left {
+    margin-right: $std-pad;
   }
 }
 
@@ -74,16 +64,8 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 90px;
   }
 
-  .top-bar {
-    ul {
-      li {
-        background: transparent;
-        margin-left: 65px;
-      }
-    }
-  }
-
-  .top-title {
-    margin-bottom: 40px;
+  .menu-link {
+    background: transparent;
+    margin-left: 65px;
   }
 }
