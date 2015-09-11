@@ -25,14 +25,15 @@ If they wish, new club members can be supported by a mentor. You decide the pace
 #### Are Toastmasters meetings open to everyone?
 
 Yes! Come as a guest and attend our meetings. Meetings are free of charge and further obligation.
-Meetings start promptly at 6:45pm. Doors are open from 6:30pm
-
-If there is no one at the reception, simply dial the telephone number on the First Berlin Toastmasters poster
-and someone will come and collect you.
 
 #### When do First Berlin Toastmasters meet?
 
 Meetings take place on the 1st and 3rd Wednesday of every month.
+
+Meetings start promptly at 6:45pm. Doors are open from 6:30pm
+
+If there is no one at the reception, simply dial the telephone number on the First Berlin Toastmasters poster
+and someone will come and collect you.
 
 #### Where do First Berlin Toastmasters meet?
 
@@ -72,7 +73,7 @@ Fees are as follows:
 
 * One time registration fee of 20 EUR which covers the cost of your Competent Communicator and Competent Leadership manuals.
 * Monthly membership: 9,50 EUR.
-* A reduced monthly fee of 7 EUR is available for students or for the unemployed.
+* A reduced monthly fee of 7 EUR is available for students and people who are retired or unemployed.
 
 Fees are collected in March and in September for a total of 57 EUR for six months of membership (42 EUR at the reduced rate).
 

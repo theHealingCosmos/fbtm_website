@@ -26,6 +26,6 @@ Our members come from all walks of life and from many different countries.
 
 Join us as our guest, it's free, it's fun and it's inspiring!
 
-[See our contact form]({{ site.url }}/contact/)
+[See our contact form]({{ site.baseurl }}/contact/)
 
 
