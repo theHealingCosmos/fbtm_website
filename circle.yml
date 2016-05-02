@@ -4,6 +4,7 @@ dependencies:
     - gem install jekyll
     - gem install zurb-foundation
 
+deployment:
   production:
     branch: master
     commands:
