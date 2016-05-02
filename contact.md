@@ -13,3 +13,4 @@ or our Vice President of Membership:
 *vp-membership -at- fbtm.org*
 
 (replace the -at- with an @ symbol)
+{% include map.html %}
