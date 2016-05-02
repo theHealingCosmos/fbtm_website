@@ -9,4 +9,4 @@ deployment:
     branch: master
     commands:
       - jekyll build
-      - ncftpput -R -v -u $FTPUSER -p $FTPPASS $FTPHOST / _site/
+      - ncftpput -R -v -u $FTPUSER -p $FTPPASS $FTPHOST / _site
