@@ -1,0 +1,11 @@
+dependencies:
+  post:
+    - sudo apt-get install ncftp
+    - gem install jekyll
+    - gem install zurb-foundation
+
+  production:
+    branch: master
+    commands:
+      - jekyll build
+      - ncftpput -R -v -u $FTPUSER -p $FTPPASS $FTPHOST / _/site
