@@ -2,9 +2,9 @@
 layout: page
 title: Success Stories - Benjamin Brühl
 excerpt: "Member success stories for your reading pleasure!"
-permalink: /success/benjamin_bruehl/dtmPin.jpg
+permalink: /success/benjamin_bruehl/
 image:
-  feature: banners/dtmPirn.jpg
+  feature: banners/dtmPin.jpg
   credit: Toastmasters International 
   creditlink: www.toastmasters.org 
 
