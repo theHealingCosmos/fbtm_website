@@ -4,10 +4,9 @@ title: Success Stories - Olivia Schofield
 excerpt: "Member success stories for your reading pleasure!"
 permalink: /success/olivia_schofield/
 image:
-  feature: banners/public-speaking-banner.jpg
-  credit: Pete
-  creditlink: https://www.flickr.com/photos/comedynose/3638971241/
-
+  feature: banners/Teddy_Bear_Olivia.jpg
+  credit:  Polimerek  
+  creditlink: http://www.gnu.org/copyleft/fdl.html
 ---
 
 
