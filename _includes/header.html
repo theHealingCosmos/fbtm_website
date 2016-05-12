@@ -36,8 +36,8 @@
 </header>
 {% if page.image.feature %}
 <img src="{{ site.baseurl }}/img/{{ page.image.feature }}" class="banner-image full-width" />
-<a class="right small" href="{{ page.image.creditlink }}"/>Image by {{ page.image.credit }}</a>
+<a class="right small margin-right" href="{{ page.image.creditlink }}"/>Image by {{ page.image.credit }}</a>
 {% else %}
 <img src="{{ site.baseurl }}/img/{{ site.default_image.feature }}" class="banner-image full-width" />
-<a class="right banner-image-credit" href="{{ site.default_image.creditlink }}"/>Image by {{ site.default_image.credit }}</a>
+<a class="right banner-image-credit margin-right" href="{{ site.default_image.creditlink }}"/>Image by {{ site.default_image.credit }}</a>
 {% endif %}
