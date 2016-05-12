@@ -4,9 +4,9 @@ title: Success Stories - Benjamin Brühl
 excerpt: "Member success stories for your reading pleasure!"
 permalink: /success/benjamin_bruehl/
 image:
-  feature: banners/public-speaking-banner.jpg
-  credit: Pete
-  creditlink: https://www.flickr.com/photos/comedynose/3638971241/
+  feature: banners/dtmPirn.jpg
+  credit: Toastmasters International 
+  creditlink: www.toastmasters.org 
 
 ---
 
